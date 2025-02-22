@@ -1,4 +1,4 @@
-package org.SuryaKN;
+package org.skulkarni;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;

@@ -1,4 +1,4 @@
-package org.SuryaKN;
+package org.skulkarni;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
